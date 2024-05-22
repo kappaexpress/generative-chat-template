@@ -1,8 +1,5 @@
 import streamlit as st
-from typing import List
 from openai import OpenAI
-import numpy as np
-import sqlite_vss
 
 # 必要なモジュールのインポート
 from openai_client import OpenAIClient
